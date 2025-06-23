@@ -11,18 +11,8 @@ public class TimeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TimeApplication.class, args);
-<<<<<<< HEAD
-		//change from diff local branch
-=======
-		//comment by vishwa1
-		//comment22q
 		//comment
-		//final commmit******************
 
-//direct main
-//
-		
->>>>>>> refs/heads/vishwadev
 	}
 
 }
